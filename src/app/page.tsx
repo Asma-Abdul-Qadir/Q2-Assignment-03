@@ -49,6 +49,7 @@ export default function Home() {
     width={800}
     height={500} 
     alt="picture"   
+    layout="responsive"
     />
     </div>
 
@@ -105,7 +106,7 @@ export default function Home() {
 
 
  </div>
-
+ 
    </>
   );
 }
